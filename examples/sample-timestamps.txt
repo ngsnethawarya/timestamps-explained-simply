@@ -1,0 +1,10 @@
+1717094400 -> 2024-05-30 12:00:00 UTC
+1717098000 -> 2024-05-30 13:00:00 UTC
+1717101600 -> 2024-05-30 14:00:00 UTC
+
+Unix timestamps are commonly found in:
+- Linux logs
+- SIEM alerts
+- Network monitoring tools
+- Packet captures
+- Cloud logs
